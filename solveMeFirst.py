@@ -1,4 +1,3 @@
-
 def solve_me_first(a, b):
     """
     Return the sum of a and b

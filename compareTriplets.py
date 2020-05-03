@@ -1,6 +1,4 @@
 import numpy as np
-# the problem statement:
-# https://www.hackerrank.com/challenges/compare-the-triplets/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
 def compareTriplets(a,b):
     """

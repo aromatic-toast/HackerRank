@@ -1,7 +1,4 @@
-# problem statement:
-# https://www.hackerrank.com/challenges/diagonal-difference/problem
-
-import numpy as np 
+import numpy as np
 
 def diagonal_difference(n, arr):
     """
